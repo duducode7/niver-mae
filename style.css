@@ -1,0 +1,72 @@
+li {
+    display: flex;
+    list-style: none;
+    justify-content: right;
+    margin: 50px;
+}
+
+.titulo {
+    text-align: center;
+    font-family: "Monsieur La Doulaise", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 80px;
+}
+
+nav {
+    background-color: rgb(79, 174, 218) ;
+    padding: 30px;
+}
+
+body {
+    background-color: #f0f0f0;
+
+}
+
+header {
+    font-family: "Tangerine", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.flex {
+    display: flex;
+}  
+
+.primeira {
+
+}
+
+.um {
+    margin-left: 250px;
+    margin-right: 100px;
+    text-align: left;
+    font-size: 30px;
+    padding: 20px;
+    background-color: rgb(79, 174, 218);
+}
+
+img {
+    text-align: right;
+    margin-left: 100px;
+    margin-right: 250px;
+}
+
+.dois {
+    margin-left: 250px;
+    margin-right: 100px;
+    text-align: left;
+    font-size: 35px;
+    padding: 20px;
+    background-color: rgb(79, 174, 218);
+}
+
+hr {
+    font-size: 30px;
+}
+
+.segunda {
+    text-align: center;
+    margin: 30px
+    
+}
